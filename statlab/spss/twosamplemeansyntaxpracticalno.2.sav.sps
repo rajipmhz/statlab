@@ -1,0 +1,5 @@
+﻿
+T-TEST GROUPS=type(1 2)
+  /MISSING=ANALYSIS
+  /VARIABLES=value
+  /CRITERIA=CI(.95).

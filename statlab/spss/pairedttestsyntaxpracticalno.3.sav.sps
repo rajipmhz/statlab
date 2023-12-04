@@ -1,0 +1,5 @@
+﻿
+DATASET ACTIVATE DataSet0.
+T-TEST PAIRS=Beforetraining WITH Aftertraining (PAIRED)
+  /CRITERIA=CI(.9500)
+  /MISSING=ANALYSIS.
